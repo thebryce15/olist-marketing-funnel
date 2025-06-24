@@ -1,0 +1,12 @@
+"channel","total_leads","total_conversions","conversion_rate","revenue_per_lead"
+"organic_search","2296","271","0.1180","102.77"
+"paid_search","1586","195","0.1230","114.75"
+"social","1350","75","0.0556","38.05"
+"unknown","1099","179","0.1629","217.26"
+"direct_traffic","499","56","0.1122","55.21"
+"email","493","15","0.0304","18.50"
+"referral","284","24","0.0845","69.32"
+"other","150","4","0.0267","58.44"
+"display","118","6","0.0508","10.24"
+"other_publicities","65","3","0.0462",NULL
+NULL,"60",NULL,NULL,NULL
