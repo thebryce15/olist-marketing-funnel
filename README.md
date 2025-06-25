@@ -103,37 +103,7 @@ Uncover which acquisition sources deliver the best ROI (conversion × revenue pe
 - **Requirements File:**  
   ```bash
   pip install -r scripts/requirements.txt
-  ```
-
----
-
-## Setup & Installation
-
-1. **Clone this repo**  
-   ```bash
-   git clone https://github.com/thebryce15/Olist_Marketing_Funnel.git
-   cd Olist_Marketing_Funnel
-   ```
-2. **Configure environment variables**  
-   ```bash
-   export ENGINE_URL="postgresql://user:pass@host:port/dbname"
-   export BASE_PATH="/absolute/path/to/Olist_Marketing_Funnel"
-   ```
-3. **Run ETL & Analytics**  
-   ```bash
-   python scripts/import_data.py
-   python scripts/run_funnel_queries.py
-   ```
-4. **Open Tableau Dashboard**  
-   - `tableau/Olist_Project.twbx`  
-
----
-
-## Usage
-
-- **Preview Data:** `python scripts/preview_data.py`  
-- **Generate Charts:** `python scripts/export_charts.py`  
-- **Build Presentation:** Open `slides/Olist_Marketing_Presentation.pptx`  
+  ```  
 
 ---
 
@@ -163,23 +133,8 @@ Olist_Marketing_Funnel/
 
 ## Additional Resources
 
-- **Full Methodology:** `docs/Olist_Case_Study_Writeup.pdf`  
-- **Stakeholder Deck:** `slides/Olist_Marketing_Presentation.pptx`
-
----
-
-## Troubleshooting
-
-- **Missing Data:** Ensure `data/raw/` contains all 7 CSVs.  
-- **SQL Errors:** Verify `ENGINE_URL` and database connectivity.  
-- **Tableau Crashes:** Use Tableau Reader if Desktop isn’t available.
-
----
-
-## Contributing
-
-This is a personal portfolio project; external PRs aren’t currently accepted.  
-Feel free to **fork** and adapt!
+- **Full Methodology:** `docs/Olist_Marketing_Funnel_Case_Study.pdf`  
+- **Stakeholder Deck:** `slides/Olist_Marketing_Presentation.pdf`
 
 ---
 
