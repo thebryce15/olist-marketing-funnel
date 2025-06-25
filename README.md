@@ -16,7 +16,7 @@
 - **Goal:** Identify which marketing channels deliver the highest revenue per lead and where the biggest funnel drop-offs occur.  
 - **Impact:**  
   - **$138 per lead** from “Unknown” segment (highest ROI)  
-  - **16% funnel leakage** at “Leads → Contacted” stage  
+  - **Paid campaigns** under‑deliver (6.3 % conv, \$48 Rev/Lead)  
   - **Front-load campaigns** in Q1 to maximize seasonal peaks  
 - **Audience:** Marketing Managers, Campaign Leads, BI/Analytics Teams  
 - **Live Dashboard:** [View the Tableau dashboard](#) ← *insert your Tableau Public link here*  
