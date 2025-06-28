@@ -67,8 +67,8 @@ Uncover which acquisition sources deliver the best ROI (conversion × revenue pe
 
 ## Live Dashboard
 
-🔗 **Tableau Public Dashboard:**  
-[Insert your Tableau link here]
+**Tableau Public Dashboard:**  
+[[Link]](https://public.tableau.com/views/Olist_Project/OlistMarketingFunnel?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 > *No setup required—just click and explore key channel filters, time-series trends, and funnel drop-offs.*
 
